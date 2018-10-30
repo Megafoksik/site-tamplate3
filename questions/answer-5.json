@@ -1,0 +1,6 @@
+[{
+    "name": "имя",
+    "date": "17.12.2015",
+    "avatar": "https://kartinki.detki.today/wp-content/uploads/2017/07/kartinka-dlya-detey-lisa-1150x764.jpg",
+    "answer": "Чтобы попасть в single user mode через grub, нужно к строке: linux /boot/vmlinuz-3.5.0-23-generic root=uuid=ebed8de5-5b3c-42f2-b540-c03708ddd21b ro quiet splash $vt_handoff    дописать single чтобы в итоге получилось: linux /boot/vmlinuz-3.5.0-23-generic root=uuid=ebed8de5-5b3c-42f2-b540-c03708ddd21b ro quiet splash single $vt_handoff "
+}]

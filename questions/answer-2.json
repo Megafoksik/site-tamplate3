@@ -1,0 +1,15 @@
+[
+    {
+        "name": "имя",
+        "date": "20.04.2015",
+        "avatar": "http://vsyo-tut.ru/images/stories/3yj.jpg",
+        "answer": "Вам надо реализовывать цикл WordPress через WP_Query, а в цикле для каждой страницы выводить нужные кастомные поля."
+    },
+    
+    {
+        "name": "имя",
+        "date": "17.12.2015",
+        "avatar": "https://kartinki.detki.today/wp-content/uploads/2017/07/kartinka-dlya-detey-lisa-1150x764.jpg",
+        "answer": "Не знаю."
+    }
+]
