@@ -1,0 +1,15 @@
+[
+    {
+        "name": "имя",
+        "date": "20.04.2015",
+        "avatar": "http://vsyo-tut.ru/images/stories/3yj.jpg",
+        "answer": "Есть симпатичная утилитка lsblk, обычно присутствует в штатной поставке, которая может нарисовать дерево использования устройств"
+    },
+    
+    {
+        "name": "имя",
+        "date": "17.12.2015",
+        "avatar": "https://kartinki.detki.today/wp-content/uploads/2017/07/kartinka-dlya-detey-lisa-1150x764.jpg",
+        "answer": "lshw - list hardware (тут матчасть)."
+    }
+]
